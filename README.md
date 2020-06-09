@@ -1,5 +1,5 @@
 # Meme Generator
-A simple a meme generator web application made with React JS.
+A simple meme generator web application made with React JS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
